@@ -8,3 +8,4 @@ function Call():void{
 
 Call()
 
+console.log("Added Some Line")
